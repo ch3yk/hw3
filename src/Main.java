@@ -5,7 +5,7 @@ public class Main {
     }
 
     public static void task1 () {
-        System.out.println("Задача 1");
+        System.out.println("Задача1");
         int pineapple = 4;
         byte people = 32;
         short cost = 27999;
